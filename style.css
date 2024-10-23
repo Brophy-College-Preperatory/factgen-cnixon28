@@ -11,22 +11,22 @@ body {
 }
 
 h1 {
-  background-color: #FAC748;
+  background-color: #FAC748; /* sets a background color to yellow
   color:#1D2F6F;
-  text-align: center; 
+  text-align: center;  /* centers the text*/
   font-family: 'Playfair Display', serif;
 }
 
 main {
   margin: 0 auto;
   max-width: 60%;
-  text-align: center;
+  text-align: center; /* alligs the text*/
   font-family: 'Overpass', sans-serif; 
 }
 
 /* STYLE TEXT */
 p {
-  font-size: 1.2em;
+  font-size: 1.2em; /* sets a font size*/
   text-align: left; 
   padding-top: 1em;
   padding-bottom: 1em;
@@ -36,7 +36,7 @@ p {
   font-weight: 700;
   font-size: 1.5em;
   text-align: center;
-  margin-top: 1.5em;
+  margin-top: 1.5em; /* describes the text*/
 }
 
 h1 {
@@ -53,5 +53,5 @@ button {
   padding: 10px;
   font-family: 'Playfair Display', serif;
   font-size: 1em;
-  border-style: none;
+  border-style: none; /* changes the background the font size and the style of the border*/
 }
